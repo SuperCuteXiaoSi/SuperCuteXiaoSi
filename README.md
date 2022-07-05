@@ -1,6 +1,6 @@
 ### Hi there I'm xiaosi👋
 
-**A developer who loves learning** At present, I am an enterprise developer. I occasionally work on some open source projects. I hope to have more exchanges and ✨_learning_✨ 
+**A developer who loves learning** At present, I am an enterprise developer. I occasionally work on some open source projects. I hope to have more exchanges and ✨ _learning_ ✨ 
 
 - 🚀 I’m currently learning **Vue, Vite, NuxtJs and React**
 - 💬 Ask me about **Vue, Vite, NuxtJs**
