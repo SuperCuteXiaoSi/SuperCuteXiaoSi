@@ -13,7 +13,7 @@
 
 <br align="left"/>
 <p>
-  <img align="left" style="height: 200px"  src="https://github-readme-stats.vercel.app/api?username=supercutexiaosi&theme=default&show_icons=true" />
+  <img align="left" style="height: 200px; width:400px"  src="https://github-readme-stats.vercel.app/api?username=supercutexiaosi&theme=default&show_icons=true" />
 
-  <img align="left" style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercutexiaosi&layout=compact" />
+  <img align="left" style="height: 200px; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercutexiaosi&layout=compact" />
 </p>
