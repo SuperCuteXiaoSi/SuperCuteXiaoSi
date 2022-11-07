@@ -6,9 +6,11 @@
 - 💬 Ask me about **Vue, Vite, NuxtJs**
 
 #### Projects
-- [xiaosiAdmin](https://github.com/SuperCuteXiaoSi/xiaosiAdmin) - Background management system template developed based on Vue3, Vite, Element Push and TypeScript
-- [xiaosiCommitLib](https://github.com/SuperCuteXiaoSi/xiaosiCommitLib) - Component library template developed based on Vue3, VitePress and TypeScript
-- [xiaosiBlog](https://github.com/SuperCuteXiaoSi/xiaosiBlog) - Blog system based on Vue3, NuxtJs, EggJs and TypeScript
+- [vue-xs-admin](https://github.com/jsxiaosi/vue-xs-admin) - Background management system template developed based on Vue3, Vite, Element Push and TypeScript
+- [xs-components-lib](https://github.com/jsxiaosi/xs-components-lib) - Component library template developed based on Vue3, VitePress and TypeScript
+- [vue3-uni-app](https://github.com/jsxiaosi/vue3-uni-app) - Open to use UniApp template developed based on Vue3, Vite and TypeScript
+- [nuxt3-template](https://github.com/jsxiaosi/nuxt3-template) - The out of the box Nuxt3 template developed based on VueUse, I18n, Pinia and TypeScript
+- [xiaosiBlog](https://github.com/jsxiaosi/xiaosiBlog) - Blog system based on Vue3, NuxtJs, EggJs and TypeScript
 
 
 <br align="left"/>
